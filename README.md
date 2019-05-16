@@ -12,7 +12,7 @@ In this tutorial, the novel image registration framework: Autograd Image Registr
 # Speakers
 
 1. **Dr. Christoph Jud** Department of Biomedical Engineering, University of Basel, Switzerland
-2. **Robin Sandkühler** Department of Biomedical Engineering, University of Basel, Switzerland
+2. **Robin Sandkühler, M.Sc.** Department of Biomedical Engineering, University of Basel, Switzerland
 
 
 
