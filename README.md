@@ -20,6 +20,6 @@ In this tutorial, the novel image registration framework: Autograd Image Registr
 Robin Sandkühler, Philippe C. Cattin, Christoph Jud
 
 # References
-[2018] Robin Sandkuehler,  Christoph Jud, and Philippe C. Cattin. "AirLab: Autograd Image Registration Laboratory". arXiv preprint arXiv:1806.09907, 2018. [link](https://arxiv.org/abs/1806.09907)
+[2018] Robin Sandkuehler,  Christoph Jud, Simon Andermatt, and Philippe C. Cattin. "AirLab: Autograd Image Registration Laboratory". arXiv preprint arXiv:1806.09907, 2018. [link](https://arxiv.org/abs/1806.09907)
 
 
