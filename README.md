@@ -16,27 +16,33 @@ GitHub: [https://github.com/airlab-unibas/airlab](https://github.com/airlab-unib
 # Tentative Program
 
 ## Part 1:
+
 ### Introduction to Medical Image Registration
 * Basic concepts and application
 * Novel learning-based concepts
+
 ### Applied Image Registration 
 * Main issues with development and implementation
 * Current image registration frameworks and tools
 * Primer on PyTorch with basic examples
+
 ### Introduction to AirLab
 * Basic concept behind AirLab
 * Hello world example in AirLab
 * Basic features for classic and learning-based image registration
 
 ## Part 2:
+
 ### Dive into AirLab (with a lot of examples)
 * How to install AirLab
 * How to use AirLab
 * How to extend AirLab and contribute to the project
+
 ### AirLab for Learning-based Concepts
 * Setting up a model
 * Setting up a dataloader and validator
 * Training and visualizing
+
 ### The Future of AirLab
 * Discussion with participants about the future of AirLab
 * Feature requests
