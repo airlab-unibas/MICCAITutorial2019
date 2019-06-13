@@ -13,12 +13,38 @@ In this tutorial, the novel image registration framework: Autograd Image Registr
 
 GitHub: [https://github.com/airlab-unibas/airlab](https://github.com/airlab-unibas/airlab)
 
+# Tentative Program
+
+## Part 1:
+### Introduction to Medical Image Registration
+* Basic concepts and application
+* Novel learning-based concepts
+### Applied Image Registration 
+* Main issues with development and implementation
+* Current image registration frameworks and tools
+* Primer on PyTorch with basic examples
+### Introduction to AirLab
+* Basic concept behind AirLab
+* Hello world example in AirLab
+* Basic features for classic and learning-based image registration
+
+## Part 2:
+### Dive into AirLab (with a lot of examples)
+* How to install AirLab
+* How to use AirLab
+* How to extend AirLab and contribute to the project
+### AirLab for Learning-based Concepts
+* Setting up a model
+* Setting up a dataloader and validator
+* Training and visualizing
+### The Future of AirLab
+* Discussion with participants about the future of AirLab
+* Feature requests
+
 # Speakers
 
 1. **Dr. Christoph Jud** Department of Biomedical Engineering, University of Basel, Switzerland
 2. **Robin Sandkühler, M.Sc.** Department of Biomedical Engineering, University of Basel, Switzerland
-
-
 
 # Organizers
 Robin Sandkühler, Philippe C. Cattin, Christoph Jud
