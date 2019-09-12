@@ -37,7 +37,7 @@ GitHub: [https://github.com/airlab-unibas/airlab](https://github.com/airlab-unib
 * Hello world example in AirLab
 * Basic features for classic image registration
 
-## Coffee Break (15:30)
+## Coffee Break (15:30):
 * How to install AirLab
 * Setting up software requirements and environment together
 
