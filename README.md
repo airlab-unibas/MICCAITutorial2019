@@ -2,7 +2,7 @@
 
 ## AirLab - MICCAI Tutorial 2019
 
-Date (tentative): October 17, 2019 (half day)
+Date: October 17, 2019 (afternoon)
 
 # Autograd Image Registration Laboratory
 
@@ -13,12 +13,12 @@ In this tutorial, the novel image registration framework: Autograd Image Registr
 
 GitHub: [https://github.com/airlab-unibas/airlab](https://github.com/airlab-unibas/airlab)
 
-# Tentative Program
+# Program
 
-## Part 1:
+## Session 1 (14:00):
 
 ### Introduction to Medical Image Registration
-* Basic concepts and application
+* Basic concepts and applications
 * Novel learning-based concepts
 
 ### Applied Image Registration 
@@ -29,22 +29,21 @@ GitHub: [https://github.com/airlab-unibas/airlab](https://github.com/airlab-unib
 ### Introduction to AirLab
 * Basic concept behind AirLab
 * Hello world example in AirLab
-* Basic features for classic and learning-based image registration
+* Basic features for classic image registration
 
-## Part 2:
-
-### Dive into AirLab (with a lot of examples)
+## Coffee Break (15:30)
 * How to install AirLab
+* Setting up software requirements and environment together
+
+## Session 2 (16:30):
+
+### Hello World with AirLab
 * How to use AirLab
 * How to extend AirLab and contribute to the project
 
-### AirLab for Learning-based Concepts
-* Setting up a model
-* Setting up a dataloader and validator
-* Training and visualizing
-
 ### The Future of AirLab
 * Discussion with participants about the future of AirLab
+* AirLab for Learning-based Concepts (on-going)
 * Feature requests
 
 # Speakers
