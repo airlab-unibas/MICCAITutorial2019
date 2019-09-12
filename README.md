@@ -2,7 +2,8 @@
 
 ## AirLab - MICCAI Tutorial 2019
 
-Date: October 17, 2019 (afternoon, Room: Madrid 2)
+Date: October 17, 2019 (afternoon)  
+Room: Madrid 2
 
 > **Joining Mailing List:**  
 > Join the AirLab tutorial mailing list to keep up to date. Just send an e-mail to <airlab-dbe@unibas.ch> with the subject *JOIN MAILING LIST*
