@@ -4,6 +4,8 @@
 
 Date: October 17, 2019 (afternoon)
 
+<p class="callout info">Join the AirLab tutorial mailing list to keep up to date. Just send an e-mail to <airlab-dbe@unibas.ch> with the subject *JOIN MAILING LIST*</p>
+
 # Autograd Image Registration Laboratory
 
 A myriad of medical image analysis tasks rely on image registration as a "preprocessing" on which the target model builds on. The development and implementation of such image registration algorithms have been tedious so far and often requires specific programming skills such as parallel computing with CUDA at a low abstraction level.
