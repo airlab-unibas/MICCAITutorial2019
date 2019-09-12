@@ -4,7 +4,7 @@
 
 Date: October 17, 2019 (afternoon)
 
-> **Joining Mailing List**
+> **Joining Mailing List**  
 > Join the AirLab tutorial mailing list to keep up to date. Just send an e-mail to <airlab-dbe@unibas.ch> with the subject *JOIN MAILING LIST*
 
 # Autograd Image Registration Laboratory
