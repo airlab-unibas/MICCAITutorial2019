@@ -8,7 +8,7 @@ Date: October 17, 2019 (afternoon)
 > Join the AirLab tutorial mailing list to keep up to date. Just send an e-mail to <airlab-dbe@unibas.ch> with the subject *JOIN MAILING LIST*
 
 > **Preparation for Hands-on Session:**  
-> If you bring with you your laptop, in the second session you will have the opportunity to try out AirLab with our assistance. As the internet at conferences are usually slow (and censored in China) we highly recommend to install PyTorch 1.1 (and CUDA if you have a GPU in your laptop) *prior* to the tutorial.
+> If you bring with you your laptop, in the second session you will have the opportunity to try out AirLab with our assistance. As the internet at conferences are usually slow (and censored in China) we highly recommend to install PyTorch 1.1 (and CUDA if you have a GPU in your laptop) **prior to the tutorial**.
 
 # Autograd Image Registration Laboratory
 
