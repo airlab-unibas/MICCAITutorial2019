@@ -60,6 +60,7 @@ GitHub: [https://github.com/airlab-unibas/airlab](https://github.com/airlab-unib
 **Dr. Christoph Jud** Department of Biomedical Engineering, University of Basel, Switzerland
 
 <img width="20%" align="middle" src="figs/Sandkuehler_Robin_20170117_011.jpg" alt="Robin Sandkühler" />
+
 **Robin Sandkühler, M.Sc.** Department of Biomedical Engineering, University of Basel, Switzerland
 
 # Organizers
