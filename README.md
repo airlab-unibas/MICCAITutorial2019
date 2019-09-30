@@ -55,7 +55,7 @@ GitHub: [https://github.com/airlab-unibas/airlab](https://github.com/airlab-unib
 
 # Speakers
 
-1. **Dr. Christoph Jud** Department of Biomedical Engineering, University of Basel, Switzerland
+1. <img width="20%" align="middle" src="figs/christophjud.jpg" alt="Christoph Jud" />**Dr. Christoph Jud** Department of Biomedical Engineering, University of Basel, Switzerland
 2. **Robin Sandkühler, M.Sc.** Department of Biomedical Engineering, University of Basel, Switzerland
 
 # Organizers
