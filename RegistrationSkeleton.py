@@ -15,6 +15,7 @@
 import sys
 import os
 import time
+import matplotlib.pyplot as plt
 
 import torch as th
 import torch.nn.functional as F
@@ -189,6 +190,29 @@ def main():
     inverse_displacement = al.create_displacement_image_from_image(inverse_displacement, moving_image)
 
     end = time.time()
+
+
+    print("=================================================================")
+    print("Registration done in: ", end - start)
+    print("Result parameters:")
+
+    # plot the results
+    plt.subplot(141)
+    plt.imshow(fixed_image.numpy(), cmap='gray')
+    plt.title('Fixed Image')
+
+    plt.subplot(142)
+    plt.imshow(moving_image.numpy(), cmap='gray')
+    plt.title('Moving Image')
+
+    plt.subplot(143)
+    plt.imshow(warped_image.numpy(), cmap='gray')
+    plt.title('Warped Shaded Moving Image')
+
+    plt.subplot(144)
+    plt.imshow(displacement.magnitude().numpy(), cmap='jet')
+    plt.title('Magnitude Displacement')
+    plt.show()
 
 if __name__ == '__main__':
     main()
